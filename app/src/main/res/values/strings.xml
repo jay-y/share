@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Share</string>
+
+    <string name="share_qq_default">QQ默认分享</string>
+
+    <string name="share_qq_audio">QQ多媒体分享</string>
+
+    <string name="share_wx_txt">微信文字分享</string>
+
+    <string name="share_wx_img">微信图片分享</string>
+
+    <string name="share_wx_music">微信音乐分享</string>
+</resources>
