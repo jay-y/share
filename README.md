@@ -4,7 +4,7 @@
 第三方分享集成接口，使用请参考app.
 #### When you use Gradle to build a dependency can be added to:
 ```javascript
-compile 'com.github.jay-y:share:1.0.0'
+compile 'com.github.jay-y:share:1.0.+'
 ```
 ## About Me
 #### GitHub: https://github.com/Jay-Y
